@@ -5,4 +5,4 @@ Telangana is one of the states with an open data policy. The government of Telan
 
 Presentation link: https://drive.google.com/file/d/11h4nHCwrr5Y-HwI9tslMsxGa3dKGmVZ0/view?usp=sharing
 
-Power BI dashboard: 
+Power BI dashboard: https://www.novypro.com/project/telangana-growth-analysis-34
